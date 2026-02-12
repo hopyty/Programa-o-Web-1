@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+</head>
+<body>
+
+    <h1>Sou o igor Lima</h1>
+
+    <p>
+        aqui voce sabera algumas coisas sobre mim. sou aluno de sistemas de informaçao.
+    </p>
+
+    <h2>Meus hobbies</h2>
+    <ul>
+        <li>Ler sobre tecnologia</li>
+        <li>Aprender coisas novas</li>
+        <li>Ajudar pessoas com dúvidas</li>
+    </ul>
+
+    <h2>Uma imagem</h2>
+    <img src="https://multivix.edu.br/wp-content/uploads/2019/04/sistema-da-informacao-multivix.jpg" alt="Imagem sistemas de informaçao">
+
+    <h2>Site que eu gosto</h2>
+    <p>
+        Visite o site da 
+        <a href="https://www.wikipedia.org" target="_blank">
+            Wikipédia
+        </a>
+    </p>
+
+</body>
+</html>
