@@ -1,0 +1,11 @@
+4. Seletores
+A)	Selecionar por tag aplica o estilo a todos os elementos daquele tipo.
+	classe aplica a todos que compartilham a mesma classe
+	id aplica apenas ao elemento único que possui aquele identificador.
+B)É mais adequado usar classe quando o mesmo estilo precisa ser reutilizado em vários elementos da página
+C)Se dois elementos tiverem o mesmo id, o HTML fica inválido e podem ocorrer comportamentos inesperados, especialmente no JavaScript.
+
+7. Box Model
+a) Margin é o espaço externo ao redor do elemento, para afastá-lo de outros elementos na página.
+b) Padding é o espaço interno entre o conteúdo do elemento e sua borda.
+

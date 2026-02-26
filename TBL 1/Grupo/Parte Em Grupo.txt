@@ -1,0 +1,54 @@
+Parte 2 - Realizada em dupla, discutir e responder
+
+Aluno:  Igor Gabriel Lopes de Lima - 123130
+	Marcelo Alves Barbosa - 123708
+	Henrique Ramos da Silva - 123654 
+
+Bloco 1 – Estrutura e Organização
+1. Vocês usaram as mesmas classes para estruturar o cartão?
+sim, 3 classes usadas
+2. Algum de vocês usou mais classes do que o outro?
+sim, o igor usou 1 classe a mais devido o trabalho esta agrupado na parte 1 e 2. 
+3. A organização do HTML ficou parecida ou diferente?
+ficaram com a estrutura similar.
+4. Alguém utilizou id para estilização?
+Nao
+Bloco 2 – Decisões de Layout
+5. Como cada um centralizou o cartão?
+todos utilizaram margin automatica.
+6. Alguém teve dificuldade para centralizar?
+nao
+7. Onde cada um utilizou margin e onde utilizou padding?
+padding
+	igor: cartao, h1, section, ul e botao
+	marcelo: botao e cartao
+	henrique: body, cartao, ul e botao
+Margin
+	henrique: botao, h2, cartao e body
+	marcelo: botao, cartao ul e h1
+	igor: h1, body, cartao, menu, section e botao
+8. Se remover o padding do cartão, o que acontece visualmente?
+sim, remover a margem interna do elemento.
+
+Bloco 3 – Hierarquia Visual
+9. Como cada um destacou o botão?
+utilizamos a classe botao para personalizar o display, background, font e ou cor do texto, margem entre outros 
+10. A classe “destaque” foi aplicada da mesma forma?
+sim, todos escolheram um item da lista para aterar a cor da fonte.
+11. O título principal recebeu algum tratamento especial?
+sim, destacar o titulo para chamar atençao. exceto o henrique.
+
+Bloco 4 – Reflexão Técnica
+12. Qual solução ficou mais organizada?
+todas estao seguindo o mesmo padrao estrutural, cosneguentimente apresentando um visual similar.
+13. Se precisassem adicionar outro cartão na página, qual das
+duas soluções seria mais fácil de reutilizar? Por quê?
+qualquer uma pos sao similares.
+14. Qual erro ou dificuldade cada um encontrou individualmente?
+lembrar das escritas das tags.
+15. Após comparar os dois códigos, o que você faria diferente se
+fosse começar de novo?
+igor: faria a leitura do arquivo inicialmente antes de começar o desenvolvimento e planejaria uma paleta de cores antes.
+16. Escrevam uma melhoria que decidiram aplicar após a
+conversa.
+nada.

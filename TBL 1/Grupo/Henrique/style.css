@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background-color: #8aaef5;
+    margin: 0;
+    padding: 0;
+}
+.card {
+    background-color: #f06464;
+    color: #ffffff;
+    width: 450px;
+    padding: 20px;
+    margin: 60px auto;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+ul {
+    padding-left: 20px;
+}
+.destaque {
+    font-weight: bold;
+    color: #000000;
+}
+
+.botao {
+    display: inline-block;
+    background-color: #1d4ed8;
+    color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.botao:hover {
+    background-color: #163aa3;
+}
